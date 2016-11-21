@@ -1,0 +1,35 @@
+<html>
+<head>
+    $webResourceManager.requireResource("com.luminouslead:admin-resources")
+    <meta name="decorator" content="atl.admin" />
+	<meta name="admin.active.section" content="atl.jira.proj.config">
+    <meta name="admin.active.tab" content="svnSuiteProjectConfigurationItemLink"/>
+	<meta name="projectKey" content="$textutils.htmlEncode($action.projectKey)"/>
+	<style type="text/css">
+	<!--
+		.registerTable {
+			border-collapse: collapse;
+			border: 1px #000000 solid;
+			background-color: #FFFFFF;
+		}
+		.registerTable TD {
+			border: 1px #000000 solid;
+		}
+	-->
+	</style>
+	<SCRIPT TYPE="text/javascript">
+	<!--
+		function check() {
+			if(window.confirm('Do you really want to delete it?')){
+				return true;
+			} else {
+				return false;
+			}
+		}
+	// -->
+	</script>
+</head>
+<body>
+Test
+</body>
+</html>

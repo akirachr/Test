@@ -1,0 +1,72 @@
+<repository lastmodified='20161106111249.040'>
+  <resource id='com.luminouslead.Test/1.0.0' symbolicname='com.luminouslead.Test' presentationname='Test' uri='Test-1.0.jar' version='1.0.0'>
+    <description>This is the com.luminouslead:Test plugin for Atlassian JIRA.</description>
+    <size>847069</size>
+    <documentation>http://www.example.com/</documentation>
+    <capability name='bundle'>
+      <p n='symbolicname' v='com.luminouslead.Test'/>
+      <p n='presentationname' v='Test'/>
+      <p n='version' t='version' v='1.0.0'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='com.luminouslead.api'/>
+      <p n='version' t='version' v='1.0.0'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=org.springframework.osgi.context))' extend='false' multiple='false' optional='true'>Import package org.springframework.osgi.context;resolution:=optional</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.event.api))' extend='false' multiple='false' optional='false'>Import package com.atlassian.event.api</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.event.config))' extend='false' multiple='false' optional='false'>Import package com.atlassian.event.config</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.event.internal))' extend='false' multiple='false' optional='false'>Import package com.atlassian.event.internal</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.event.spi))' extend='false' multiple='false' optional='false'>Import package com.atlassian.event.spi</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.extras.api))' extend='false' multiple='false' optional='false'>Import package com.atlassian.extras.api</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.extras.api.plugin))' extend='false' multiple='false' optional='false'>Import package com.atlassian.extras.api.plugin</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.extras.core))' extend='false' multiple='false' optional='false'>Import package com.atlassian.extras.core</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.extras.core.bamboo))' extend='false' multiple='false' optional='false'>Import package com.atlassian.extras.core.bamboo</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.extras.core.clover))' extend='false' multiple='false' optional='false'>Import package com.atlassian.extras.core.clover</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.extras.core.confluence))' extend='false' multiple='false' optional='false'>Import package com.atlassian.extras.core.confluence</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.extras.core.crowd))' extend='false' multiple='false' optional='false'>Import package com.atlassian.extras.core.crowd</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.extras.core.crucible))' extend='false' multiple='false' optional='false'>Import package com.atlassian.extras.core.crucible</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.extras.core.fisheye))' extend='false' multiple='false' optional='false'>Import package com.atlassian.extras.core.fisheye</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.extras.core.greenhopper))' extend='false' multiple='false' optional='false'>Import package com.atlassian.extras.core.greenhopper</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.extras.core.jira))' extend='false' multiple='false' optional='false'>Import package com.atlassian.extras.core.jira</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.extras.core.plugins))' extend='false' multiple='false' optional='false'>Import package com.atlassian.extras.core.plugins</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.extras.core.stash))' extend='false' multiple='false' optional='false'>Import package com.atlassian.extras.core.stash</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.extras.decoder.api))' extend='false' multiple='false' optional='false'>Import package com.atlassian.extras.decoder.api</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.extras.decoder.v1))' extend='false' multiple='false' optional='false'>Import package com.atlassian.extras.decoder.v1</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.extras.decoder.v2))' extend='false' multiple='false' optional='false'>Import package com.atlassian.extras.decoder.v2</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.jira.project))' extend='false' multiple='false' optional='false'>Import package com.atlassian.jira.project</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.jira.web))' extend='false' multiple='false' optional='false'>Import package com.atlassian.jira.web</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.jira.web.action))' extend='false' multiple='false' optional='false'>Import package com.atlassian.jira.web.action</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.plugin))' extend='false' multiple='false' optional='false'>Import package com.atlassian.plugin</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.plugin.event))' extend='false' multiple='false' optional='false'>Import package com.atlassian.plugin.event</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.plugin.event.events))' extend='false' multiple='false' optional='false'>Import package com.atlassian.plugin.event.events</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.plugin.osgi.factory))' extend='false' multiple='false' optional='false'>Import package com.atlassian.plugin.osgi.factory</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.plugin.spring.scanner.annotation.component))' extend='false' multiple='false' optional='false'>Import package com.atlassian.plugin.spring.scanner.annotation.component</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.plugin.spring.scanner.annotation.imports))' extend='false' multiple='false' optional='false'>Import package com.atlassian.plugin.spring.scanner.annotation.imports</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.sal.api))' extend='false' multiple='false' optional='false'>Import package com.atlassian.sal.api</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.sal.api.lifecycle))' extend='false' multiple='false' optional='false'>Import package com.atlassian.sal.api.lifecycle</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.sal.api.message))' extend='false' multiple='false' optional='false'>Import package com.atlassian.sal.api.message</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.sal.api.pluginsettings))' extend='false' multiple='false' optional='false'>Import package com.atlassian.sal.api.pluginsettings</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.sal.api.scheduling))' extend='false' multiple='false' optional='false'>Import package com.atlassian.sal.api.scheduling</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.sal.api.transaction))' extend='false' multiple='false' optional='false'>Import package com.atlassian.sal.api.transaction</require>
+    <require name='package' filter='(&amp;(package=com.atlassian.sal.api.user))' extend='false' multiple='false' optional='false'>Import package com.atlassian.sal.api.user</require>
+    <require name='package' filter='(&amp;(package=com.google.common.base))' extend='false' multiple='false' optional='false'>Import package com.google.common.base</require>
+    <require name='package' filter='(&amp;(package=com.google.common.collect))' extend='false' multiple='false' optional='false'>Import package com.google.common.collect</require>
+    <require name='package' filter='(&amp;(package=javax.annotation))' extend='false' multiple='false' optional='false'>Import package javax.annotation</require>
+    <require name='package' filter='(&amp;(package=javax.servlet))' extend='false' multiple='false' optional='false'>Import package javax.servlet</require>
+    <require name='package' filter='(&amp;(package=javax.servlet.http))' extend='false' multiple='false' optional='false'>Import package javax.servlet.http</require>
+    <require name='package' filter='(&amp;(package=net.jcip.annotations))' extend='false' multiple='false' optional='false'>Import package net.jcip.annotations</require>
+    <require name='package' filter='(&amp;(package=org.apache.commons.codec.digest))' extend='false' multiple='false' optional='false'>Import package org.apache.commons.codec.digest</require>
+    <require name='package' filter='(&amp;(package=org.apache.commons.io))' extend='false' multiple='false' optional='false'>Import package org.apache.commons.io</require>
+    <require name='package' filter='(&amp;(package=org.apache.commons.lang))' extend='false' multiple='false' optional='false'>Import package org.apache.commons.lang</require>
+    <require name='package' filter='(&amp;(package=org.joda.time))' extend='false' multiple='false' optional='false'>Import package org.joda.time</require>
+    <require name='package' filter='(&amp;(package=org.joda.time.format))' extend='false' multiple='false' optional='false'>Import package org.joda.time.format</require>
+    <require name='package' filter='(&amp;(package=org.osgi.framework))' extend='false' multiple='false' optional='false'>Import package org.osgi.framework</require>
+    <require name='package' filter='(&amp;(package=org.osgi.util.tracker))' extend='false' multiple='false' optional='false'>Import package org.osgi.util.tracker</require>
+    <require name='package' filter='(&amp;(package=org.slf4j))' extend='false' multiple='false' optional='false'>Import package org.slf4j</require>
+    <require name='package' filter='(&amp;(package=org.springframework.beans))' extend='false' multiple='false' optional='false'>Import package org.springframework.beans</require>
+    <require name='package' filter='(&amp;(package=org.springframework.beans.factory))' extend='false' multiple='false' optional='false'>Import package org.springframework.beans.factory</require>
+    <require name='package' filter='(&amp;(package=org.springframework.beans.factory.config))' extend='false' multiple='false' optional='false'>Import package org.springframework.beans.factory.config</require>
+    <require name='package' filter='(&amp;(package=org.springframework.context))' extend='false' multiple='false' optional='false'>Import package org.springframework.context</require>
+  </resource>
+</repository>

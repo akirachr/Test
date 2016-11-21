@@ -1,0 +1,200 @@
+package com.luminouslead.plugin.jira.svnsuite.web;
+
+import javax.servlet.http.HttpServletRequest;
+
+import com.atlassian.activeobjects.external.ActiveObjects;
+import com.atlassian.jira.project.Project;
+import com.atlassian.jira.project.ProjectManager;
+import com.atlassian.jira.web.ExecutingHttpRequest;
+import com.atlassian.jira.web.action.JiraWebActionSupport;
+import com.atlassian.plugin.spring.scanner.annotation.component.Scanned;
+import com.atlassian.plugin.spring.scanner.annotation.imports.ComponentImport;
+import com.luminouslead.plugin.jira.svnsuite.repository.bean.Repository;
+import com.luminouslead.plugin.jira.svnsuite.web.consts.RequestParameterNames;
+import com.luminouslead.plugin.jira.svnsuite.web.consts.RequestParameterValues;
+import com.luminouslead.plugin.jira.svnsuite.web.projectconfiguration.ProjectConfigurationAction;
+import com.luminouslead.plugin.jira.svnsuite.web.projectconfiguration.ProjectConfigurationActionProvider;
+import com.luminouslead.plugin.jira.svnsuite.web.projectconfiguration.view.ProjectConfigurationView;
+
+@Scanned
+public class ProjectConfiguration extends JiraWebActionSupport {
+
+	private static final long serialVersionUID = 3813308853568647045L;
+
+    @ComponentImport
+	private ActiveObjects _activeObjects;
+    
+	private ProjectConfigurationActionProvider	_projectConfigurationActionProvider;
+	
+	private String			_projectKey;
+	private String			_repositoryURL;
+	private String			_repositoryUsername;
+	private String			_repositoryPassword;
+	private String			_repositoryPrivateKey;
+	private String			_repositoryPassphrase;
+	private Repository[]	_repositories;
+	private String			_repositoryID;
+	
+	private boolean			_editMode;
+	private String			_messageHtml;
+	
+	private boolean			_isRepositoryAssignedToProject;
+
+	private String			_projectConfigurationActionName;
+    
+	public void setActiveObjects(ActiveObjects activeObjects) {
+		_activeObjects = activeObjects;
+	}
+	public ActiveObjects getActiveObjects() {
+		return _activeObjects;
+	}
+	
+	public void setProjectKey(String projectKey) {
+		_projectKey = projectKey;
+	}
+	public String getProjectKey() {
+		return _projectKey;
+	}
+	public void setRepositoryURL(String repositoryURL) {
+		_repositoryURL = repositoryURL;
+	}
+	public String getRepositoryURL() {
+		return _repositoryURL;
+	}
+	public void setRepositoryUsername(String repositoryUsername) {
+		_repositoryUsername = repositoryUsername;
+	}
+	public String getRepositoryUsername() {
+		return _repositoryUsername;
+	}
+	public void setRepositoryPassword(String repositoryPassword) {
+		_repositoryPassword = repositoryPassword;
+	}
+	public String getRepositoryPassword() {
+		return _repositoryPassword;
+	}
+	public void setRepositoryPrivateKey(String repositoryPrivateKey) {
+		_repositoryPrivateKey = repositoryPrivateKey;
+	}
+	public String getRepositoryPrivateKey() {
+		return _repositoryPrivateKey;
+	}
+	public void setRepositoryPassphrase(String repositoryPassphrase) {
+		_repositoryPassphrase = repositoryPassphrase;
+	}
+	public String getRepositoryPassphrase() {
+		return _repositoryPassphrase;
+	}
+	public void setRepositories(Repository[] repositories) {
+		_repositories = repositories;
+	}
+	public Repository[] getRepositories() {
+		return _repositories;
+	}
+	public void setRepositoryID(String repositoryID) {
+		_repositoryID = repositoryID;
+	}
+	public String getRepositoryID() {
+		return _repositoryID;
+	}
+
+	public void setEditMode(boolean editMode) {
+		_editMode = editMode;
+	}
+	public boolean isEditMode() {
+		return _editMode;
+	}
+	public void setMessageHtml(String message) {
+		_messageHtml = message;
+	}
+	public String getMessageHtml() {
+		return _messageHtml;
+	}
+	
+	
+	public void setProjectConfigurationActionName(String projectConfigurationActionName) {
+		_projectConfigurationActionName = projectConfigurationActionName;
+	}
+	public String getProjectConfigurationActionName() {
+		return _projectConfigurationActionName;
+	}
+
+	public boolean isRepositoryAssignedToProject() {
+		return _isRepositoryAssignedToProject;
+	}
+	public void setRepositoryAssignedToProject(boolean isRepositoryAssignedToProject) {
+		_isRepositoryAssignedToProject = isRepositoryAssignedToProject;
+	}
+	
+	public String getRepositoryInputTableProjectConfigurationHtml() {
+		return ProjectConfigurationView.getRepositoryInputTableProjectConfigurationHtml(
+				_repositoryURL,
+				_repositoryUsername,
+				_repositoryPassword,
+				_repositoryPrivateKey,
+				_repositoryPassphrase,
+				_repositoryID,
+				_projectKey,
+				_editMode);
+	}
+	
+	public String getRepositoryDisplayTableProjectConfigurationHtml() {
+		return ProjectConfigurationView.getRepositoryDisplayTableProjectConfigurationHtml(
+				_repositories,
+				_projectKey);
+	}
+	
+	public String getRepositoryPageLinkProjectConfigurationHtml() {
+		return ProjectConfigurationView.getRepositoryPageLinkProjectConfigurationHtml(_projectKey);
+	}
+	
+	public ProjectConfiguration() {
+		_projectConfigurationActionProvider = ProjectConfigurationActionProvider.getInstance();
+	}
+
+	public String doExecute() {
+
+		setCommonParameters();
+
+		boolean isValid = true;
+		
+		if( isValid ) {
+			
+			String actionName = getActionNameFromRequest();
+		
+			executeAction(actionName);
+		}
+		
+		String viewName = setViewPage();
+		
+		return viewName;
+	}
+	
+	private void setCommonParameters() {
+		ProjectManager projectManager = getProjectManager();
+		Project project = projectManager.getProjectObjByKey(_projectKey);
+        HttpServletRequest request = ExecutingHttpRequest.get();
+        request.setAttribute(RequestParameterNames.SERVLET_REQUEST_PROJECT_CONFIGURATION_REQUEST_CACHE, project);
+	}
+	
+	private String getActionNameFromRequest() {
+		String actionName = getProjectConfigurationActionName();
+		
+		if( actionName == null ) {
+			actionName = RequestParameterValues.PROJECT_CONFIGURATION_DEFAULT_ACTION;
+		}
+		
+		return actionName;
+	}
+	
+	private void executeAction(String actionName) {
+		ProjectConfigurationAction projectConfigurationAction = _projectConfigurationActionProvider.getProjectConfigurationAction(actionName);
+		projectConfigurationAction.execute(this);
+	}
+	
+	private String setViewPage() {
+		String result = SUCCESS;
+		
+		return result;
+	}
+}

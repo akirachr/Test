@@ -1,0 +1,31 @@
+package com.luminouslead.web;
+
+import javax.servlet.http.HttpServletRequest;
+
+import com.atlassian.activeobjects.external.ActiveObjects;
+import com.atlassian.jira.project.Project;
+import com.atlassian.jira.project.ProjectManager;
+import com.atlassian.jira.web.ExecutingHttpRequest;
+import com.atlassian.jira.web.action.JiraWebActionSupport;
+import com.atlassian.plugin.spring.scanner.annotation.component.Scanned;
+import com.atlassian.plugin.spring.scanner.annotation.imports.ComponentImport;
+import com.luminouslead.plugin.jira.svnsuite.repository.bean.Repository;
+import com.luminouslead.plugin.jira.svnsuite.web.consts.RequestParameterNames;
+import com.luminouslead.plugin.jira.svnsuite.web.consts.RequestParameterValues;
+import com.luminouslead.plugin.jira.svnsuite.web.projectconfiguration.ProjectConfigurationAction;
+import com.luminouslead.plugin.jira.svnsuite.web.projectconfiguration.ProjectConfigurationActionProvider;
+import com.luminouslead.plugin.jira.svnsuite.web.projectconfiguration.view.ProjectConfigurationView;
+
+public class ProjectConfiguration extends JiraWebActionSupport {
+
+	private static final long serialVersionUID = 3813308853568647045L;
+
+	public ProjectConfiguration() {
+	}
+
+	public String doExecute() {
+
+		return SUCCESS;
+	}
+	
+}

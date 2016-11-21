@@ -1,0 +1,39 @@
+<atlassian-plugin key="${atlassian.plugin.key}" name="${project.name}" plugins-version="2">
+    <plugin-info>
+        <description>${project.description}</description>
+        <version>${project.version}</version>
+        <vendor name="${project.organization.name}" url="${project.organization.url}" />
+        <param name="plugin-icon">images/pluginIcon.png</param>
+        <param name="plugin-logo">images/pluginLogo.png</param>
+    </plugin-info>
+    
+	<web-section key="svnSuiteProjectConfiguration" location="atl.jira.proj.config" weight="200"/>
+  
+	<web-item key="projectConfigurationTestItem" section="atl.jira.proj.config/projectConfigurationTest" weight="10">
+		<label key="Luminous SVN Suite"/>
+		<link linkId="svnSuiteProjectConfigurationItemLink">/secure/svnSuiteProjectConfiguration.jspa?projectKey=$projectKeyEncoded</link>
+	</web-item>
+  
+	<webwork1 key="svnSuiteProjectConfigurationItemAction" name="Project Configuration" class="java.lang.Object">
+		<actions>
+			<action name="com.luminouslead.web.ProjectConfigurationTest" alias="projectConfigurationTest" roles-required="admin">
+				<view name="success">/templates/projectConfiguration.vm</view>
+				<view name="error">/templates/projectConfigurationError.vm</view>
+			</action>
+		</actions>
+	</webwork1>
+	
+	<web-resource key="admin-resources" name="Admin Resources">
+		<dependency>jira.webresources:autocomplete</dependency>
+		<dependency>jira.webresources:jira-fields</dependency>
+		<dependency>com.atlassian.jira.jira-project-config-plugin:project-config-global</dependency>
+		<dependency>com.atlassian.gadgets.embedded:gadget-standalone-resources</dependency>
+		<transformation extension="js">
+			<transformer key="jsI18n"/>
+		</transformation>
+		<transformation extension="soy">
+			<transformer key="jiraSoyTransformer"/>
+		</transformation>
+		<dependency>com.atlassian.jira.jira-soy-plugin:soy-deps</dependency>
+	</web-resource>
+</atlassian-plugin>

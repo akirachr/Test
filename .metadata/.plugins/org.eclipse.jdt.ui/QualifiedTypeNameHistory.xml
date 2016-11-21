@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.atlassian.jira.project.ProjectManager"/>
+<fullyQualifiedTypeName name="com.atlassian.upm.api.license.entity.PluginLicense"/>
+<fullyQualifiedTypeName name="com.atlassian.jira.config.properties.ApplicationProperties"/>
+</qualifiedTypeNameHistroy>

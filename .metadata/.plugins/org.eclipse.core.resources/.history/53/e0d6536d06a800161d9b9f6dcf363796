@@ -1,0 +1,5 @@
+package com.luminouslead.web;
+
+public class MyPluginComponentImpl {
+
+}

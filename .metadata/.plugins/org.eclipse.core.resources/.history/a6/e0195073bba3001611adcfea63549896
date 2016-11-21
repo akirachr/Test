@@ -1,0 +1,17 @@
+package com.luminouslead.web;
+
+import com.atlassian.jira.web.action.JiraWebActionSupport;
+
+public class ProjectConfiguration extends JiraWebActionSupport {
+
+	private static final long serialVersionUID = 3813308853568647045L;
+
+	public ProjectConfiguration() {
+	}
+
+	public String doExecute() {
+
+		return SUCCESS;
+	}
+	
+}

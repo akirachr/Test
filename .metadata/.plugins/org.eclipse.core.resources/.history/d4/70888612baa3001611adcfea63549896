@@ -1,0 +1,6 @@
+package com.luminouslead.api;
+
+public interface MyPluginComponent
+{
+    String getName();
+}

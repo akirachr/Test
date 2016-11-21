@@ -1,0 +1,9 @@
+package com.luminouslead.web;
+
+public class MyPluginComponentImpl {
+	@Inject                                                                  
+	public MyPluginComponentImpl(final ApplicationProperties applicationProperties, @ComponentImport("pluginLicenseManager") PluginLicenseManager pluginLicenseManager) {
+	    this.licenseManager = pluginLicenseManager;                          
+	    this.applicationProperties = applicationProperties;                  
+	}
+}
