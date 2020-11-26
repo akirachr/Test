@@ -22,3 +22,12 @@ Tools<br>
 3. Resource Breakdown Structure<br>
 4. Team Charter<br>
    Set ground rules to eliminate conflicts among team members.<br>
+Resource Management Plan<br>
+・Human Resources<br>
+1. Identification fo human resource requiqrements (who, when, how many, what skills, duration)<br>
+2. Roles and responsibilities<br>
+3. Project organization chart.br>
+4. Process for acquiring human resources<br>
+5. Training<br>
+6. Project team management (team charter, engagement, communications)<br>
+・Physical Resources<br>
