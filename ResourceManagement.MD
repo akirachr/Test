@@ -16,12 +16,17 @@ Project manager's responsibilities for resource management.<br>
 8. Create a recognition and reward system.<br>
 <br>
 Tools<br>
-<br>
 1. Responsibility Assignment matrix<br>
 2. RACI chart (Responsible, Accountable, Consulted, Informed)<br>
 3. Resource Breakdown Structure<br>
 4. Team Charter<br>
    Set ground rules to eliminate conflicts among team members.<br>
+5. Ground rules<br>
+How to resolve a conflict<br>
+How to report a difficulty to the project manager<br>
+How to report the status updates to the project manager<br>
+Rules for meetings<br>
+   <br>
 Resource Management Plan<br>
 ・Human Resources<br>
 1. Identification fo human resource requiqrements (who, when, how many, what skills, duration)<br>
