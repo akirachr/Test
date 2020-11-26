@@ -15,3 +15,10 @@ Project manager's responsibilities for resource management.<br>
 7. Encourage collaboration among team members.<br>
 8. Create a recognition and reward system.<br>
 <br>
+Tools<br>
+<br>
+1. Responsibility Assignment matrix<br>
+2. RACI chart (Responsible, Accountable, Consulted, Informed)<br>
+3. Resource Breakdown Structure<br>
+4. Team Charter<br>
+   Set ground rules to eliminate conflicts among team members.<br>
