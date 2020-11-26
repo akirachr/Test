@@ -74,3 +74,17 @@ Storming<br>
 Norming<br>
 Performing<br>
 Adjourning<br>
+<br>
+The Powers of Project Manager<br>
+Formal<br>
+Reward<br>
+Penalty<br>
+Expert<br>
+Referent<br>
+<br>
+Conflict Resolution Techniques<br>
+Collaborating: Problem solving<br>
+Compromising: Bring some degree od satisfaction to both parties<br>
+Withdrawal: Postpone a decision<br>
+Smoothing: Emphasize agreement rather than differences of opinions<br>
+Forcing<br>
