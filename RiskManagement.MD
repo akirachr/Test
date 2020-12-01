@@ -8,9 +8,9 @@ Risk Factors<br>
 1. Probability<br>
 2. Impact<br>
 <br>
-Risk Management Plan<br>
+<h2>Risk Management Plan</h2>
 <table>
-  <tr bgcolor="grey"><th>No.</th><th>Component</th></tr>
+  <tr><th>No.</th><th>Component</th></tr>
   <tr><td>01. </td><td>Risk strategy</td></tr>
   <tr><td></td><td>Execute the defined risk methodology throughout the project life cycle.</td></tr>
   <tr><td>02. </td><td>Methodology</td></tr>
