@@ -37,10 +37,10 @@ Risk Factors<br>
   <tr><td>06. </td><td>Risk categories</td></tr>
   <tr><td></td>
   <td>
-・ External<br>
-・ Internal<br>
-・ Technical<br>
-・ Commercial<br>
+・ External: Regulatory, environmental, governmental issues.<br>
+・ Internal: Changes to schedule, budget, or scope.<br>
+・ Technical: Technical interfaces and etc.<br>
+・ Commercial: Terms and conditions within contracts and etc.<br>
 ・ Unforseeable
   </td>
   </tr>
