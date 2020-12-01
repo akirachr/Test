@@ -11,9 +11,9 @@ Risk Factors<br>
 Risk Management Plan<br>
 <table>
   <tr><td>No.</td><td>Component</td></tr>
-  <tr><td>1. </td><td>Risk strategy</td></tr>
+  <tr><td>01. </td><td>Risk strategy</td></tr>
   <tr><td></td><td>Execute the defined risk methodology throughout the project life cycle.</td></tr>
-  <tr><td>2. </td><td>Methodology</td></tr>
+  <tr><td>02. </td><td>Methodology</td></tr>
   <tr><td></td>
   <td>
 ・ Identify risks.<br>
@@ -21,24 +21,22 @@ Risk Management Plan<br>
 ・ Plan risk responses to risk events
   </td>
   </tr>
+  <tr><td>03. </td><td>Roles and responsibilities</td></tr>
+  <tr><td>04. </td><td>Funding</td></tr>
+  <tr><td>05. </td><td>Timing</td></tr>
+  <tr><td>06. </td><td>Risk categories</td></tr>
+  <tr><td></td>
+  <td>
+・ External<br>
+・ Internal<br>
+・ Technical<br>
+・ Commercial<br>
+・ Unforseeable
+  </td>
+  </tr>
+  <tr><td>07. </td><td>Stakeholder risk appetite and thresholds</td></tr>
+  <tr><td>08. </td><td>Definitions of probability and impact</td></tr>
+  <tr><td>09. </td><td>Reporting</td></tr>
+  <tr><td>10. </td><td>Tracking</td></tr>
 </table>
-1. Risk strategy<br>
-Execute the defined risk methodology throughout the project life cycle.<br>.
-2. Methodology<br>
-・ Identify risks.<br>
-・ Evaluate risks.<br>
-・ Plan risk responses to risk events.<br>
-3. Roles and responsibilities<br>
-4. Funding<br>
-5. Timing<br>
-6. Risk categories<br>
-External<br>
-Internal<br>
-Technical<br>
-Commercial<br>
-Unforseeable<br>
-7. Stakeholder risk appetite and thresholds<br>
-8. Definitions of probability and impact<br>
-9. Reporting<br>
-10. Tracking<br>
 
