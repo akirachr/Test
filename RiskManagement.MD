@@ -10,7 +10,11 @@ Risk Factors<br>
 <br>
 Risk Management Plan<br>
 1. Risk strategy<br>
+Execute the defined risk methodology throughout the project life cycle.<br>.
 2. Methodology<br>
+・ Identify risks.<br>
+・ Evaluate risks.<br>
+・ Plan risk responses to risk events.<br>
 3. Roles and responsibilities<br>
 4. Funding<br>
 5. Timing<br>
