@@ -40,7 +40,7 @@ Risk Management Plan<br>
     <td>
       <table>
         <tr>
-          <td>
+          <td valign="top">
     <table>
       <tr><td colspan="2">Scale for Probability</td></tr>
       <tr><td>Rating</td><td>Interpretation</td></tr>
