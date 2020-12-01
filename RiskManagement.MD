@@ -25,9 +25,9 @@ Risk Factors<br>
   <tr>
     <td></td>
     <td>
-      Who will do waht risk management work.<br>
-      Refer to the Risk Register.<br>
-      Which Risk Owner does the Risk Response.
+      Who will do what risk management work.<br>
+      Refer to the [Risk Register].<br>
+      Which [Risk Owner] does the [Risk Response].
     </td>
   </tr>
   <tr><td>04. </td><td>Funding</td></tr>
