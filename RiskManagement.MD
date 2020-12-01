@@ -10,7 +10,7 @@ Risk Factors<br>
 <br>
 Risk Management Plan<br>
 <table>
-  <tr><td>No.</td><td>Component</td></tr>
+  <tr style="background-color:#ccf"><td>No.</td><td>Component</td></tr>
   <tr><td>01. </td><td>Risk strategy</td></tr>
   <tr><td></td><td>Execute the defined risk methodology throughout the project life cycle.</td></tr>
   <tr><td>02. </td><td>Methodology</td></tr>
