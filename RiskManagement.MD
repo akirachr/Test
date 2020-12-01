@@ -36,6 +36,19 @@ Risk Management Plan<br>
   </tr>
   <tr><td>07. </td><td>Stakeholder risk appetite and thresholds</td></tr>
   <tr><td>08. </td><td>Definitions of probability and impact</td></tr>
+  <tr><td></td>
+    <td>
+    <table>
+      <tr><td colspan="2">Scale for Probability</td></tr>
+      <tr><td>Rating</td><td>Interpretation</td></tr>
+      <tr><td>1-2</td><td>Low</td></tr>
+      <tr><td>3-4</td><td>Medium</td></tr>
+      <tr><td>5-6</td><td>Medium-High</td></tr>
+      <tr><td>7-8</td><td>High</td></tr>
+      <tr><td>9-10</td><td>Fact</td></tr>
+    </table>
+    </td>
+  </tr>
   <tr><td>09. </td><td>Reporting</td></tr>
   <tr><td>10. </td><td>Tracking</td></tr>
 </table>
