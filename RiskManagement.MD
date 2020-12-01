@@ -38,6 +38,9 @@ Risk Management Plan<br>
   <tr><td>08. </td><td>Definitions of probability and impact</td></tr>
   <tr><td></td>
     <td>
+      <table>
+        <tr>
+          <td>
     <table>
       <tr><td colspan="2">Scale for Probability</td></tr>
       <tr><td>Rating</td><td>Interpretation</td></tr>
@@ -47,6 +50,8 @@ Risk Management Plan<br>
       <tr><td>7-8</td><td>High</td></tr>
       <tr><td>9-10</td><td>Fact</td></tr>
     </table>
+          </td>
+          <td>
     <table>
       <tr><td colspan="2">Scale for Impact</td></tr>
       <tr><td>Rating</td><td>Interpretation</td></tr>
@@ -61,6 +66,9 @@ Risk Management Plan<br>
       <tr><td>9</td><td>Over budget by 40% or delayed by 40%</td></tr>
       <tr><td>10</td><td>Project Failure</td></tr>
     </table>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr><td>09. </td><td>Reporting</td></tr>
