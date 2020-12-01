@@ -91,6 +91,8 @@ Risk Factors<br>
     </td>
   </tr>
   <tr><td>09. </td><td>Reporting</td></tr>
+  <tr><td></td><td>Risk Register will be sent.</td></tr>
   <tr><td>10. </td><td>Tracking</td></tr>
+  <tr><td></td><td>How risk management processes will be audited.<br>How risk management results will be documented.</td></tr>
 </table>
 
