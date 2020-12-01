@@ -33,6 +33,7 @@ Risk Factors<br>
   <tr><td>04. </td><td>Funding</td></tr>
   <tr><td></td><td>Utilizing reserves in responses to risk events</td></tr>
   <tr><td>05. </td><td>Timing</td></tr>
+  <tr><td></td><td>Risk management should be repeated throughout the life of the projet.</td></tr>
   <tr><td>06. </td><td>Risk categories</td></tr>
   <tr><td></td>
   <td>
