@@ -47,6 +47,20 @@ Risk Management Plan<br>
       <tr><td>7-8</td><td>High</td></tr>
       <tr><td>9-10</td><td>Fact</td></tr>
     </table>
+    <table>
+      <tr><td colspan="2">Scale for Impact</td></tr>
+      <tr><td>Rating</td><td>Interpretation</td></tr>
+      <tr><td>1</td><td>No real impact</td></tr>
+      <tr><td>2</td><td>Small reduction of tie or cost reserves</td></tr>
+      <tr><td>3</td><td>Medium reduction of tie or cost reserves</td></tr>
+      <tr><td>4</td><td>Large reduction of tie or cost reserves</td></tr>
+      <tr><td>5</td><td>Slightly over budget</td></tr>
+      <tr><td>6</td><td>Over budget by 10% to 20% or delayed by 10% to 20%</td></tr>
+      <tr><td>7</td><td>Over budget by 20% to 30% or delayed by 20% to 30%</td></tr>
+      <tr><td>8</td><td>Over budget by 30% to 40% or delayed by 30% to 40%</td></tr>
+      <tr><td>9</td><td>Over budget by 40% or delayed by 40%</td></tr>
+      <tr><td>10</td><td>Project Failure</td></tr>
+    </table>
     </td>
   </tr>
   <tr><td>09. </td><td>Reporting</td></tr>
