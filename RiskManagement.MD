@@ -45,6 +45,15 @@ Risk Factors<br>
   </td>
   </tr>
   <tr><td>07. </td><td>Stakeholder risk appetite and thresholds</td></tr>
+  <tr><td></td>
+    <td>
+      <table>
+        <tr><td>Risk</td><td>Stakeholder</td><td>Risk Appetite</td><td>Risk Threshold</td><td>Risk Averse</td></tr>
+        <tr><td>Schedule Delay</td><td>Mike</td><td>〇</td><td>15 days</td><td>-</td></tr>
+        <tr><td>Schedule Delay</td><td>Mary</td><td>-</td><td>-</td><td>〇</td></tr>
+      </table>
+    </td>
+  </tr>
   <tr><td>08. </td><td>Definitions of probability and impact</td></tr>
   <tr><td></td>
     <td>
