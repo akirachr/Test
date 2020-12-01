@@ -8,5 +8,20 @@ Risk Factors<br>
 1. Probability<br>
 2. Impact<br>
 <br>
-Risk Appetite and Thresholds
+Risk Management Plan<br>
+1. Risk strategy<br>
+2. Methodology<br>
+3. Roles and responsibilities<br>
+4. Funding<br>
+5. Timing<br>
+6. Risk categories<br>
+External<br>
+Internal<br>
+Technical<br>
+Commercial<br>
+Unforseeable<br>
+7. Stakeholder risk appetite and thresholds<br>
+8. Definitions of probability and impact<br>
+9. Reporting<br>
+10. Tracking<br>
 
