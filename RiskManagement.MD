@@ -99,5 +99,6 @@ Risk Factors<br>
 <h2>Risk Response</h2>
 <table>
   <tr><td colspan="3">Anticipated Risk Event</td><td>Unanticipated Risk Event</td></tr>
+  <tr><td>Risk Event</td><td colspan="2">Residual Risk Event</td><td>-</td></tr>
   <tr><td>Risk response</td><td>Contingency plan</td><td>Fallback plan</td><td>Workaround</td></tr>
 </table>
