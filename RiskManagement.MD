@@ -96,3 +96,8 @@ Risk Factors<br>
   <tr><td></td><td>How risk management processes will be audited.<br>How risk management results will be documented.</td></tr>
 </table>
 
+<h2>Risk Response</h2>
+<table>
+  <tr><td colspan="3">Anticipated Risk Event</td><td>Unanticipated Risk Event</td></tr>
+  <tr><td>Risk response</td><td>Contingency plan</td><td>Fallback plan</td><td>Workaround</td></tr>
+</table>
