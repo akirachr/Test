@@ -103,5 +103,6 @@ He should eliminate threats or increase opportunities and thus decrease the proj
 
 <h2>Risk Process Flowchart</h2>
 <table>
-  <tr><td>Identify risks</td><td>Plan risk responses</td><td>Identify residual and secondary risks</td><td>Create contingency plans</td><td>Create fallback plans</td></tr>
+  <tr><td>Mitigate</td><td>Identify risks</td><td>Plan risk responses</td><td>Identify residual and secondary risks</td><td>Create contingency plans</td><td>Create fallback plans</td></tr>
+  <tr><td>Avoid</td><td>Identify risks</td><td>Plan risk responses</td><td colspan="3"></td></tr>
 </table>
