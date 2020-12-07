@@ -108,3 +108,23 @@ He should eliminate threats or increase opportunities and thus decrease the proj
   <tr><th>Transfer</th><td>Identify risks</td><td>Plan risk responses</td><td colspan="3"></td><td>Implement risk responses</td></tr>
   <tr><th>Accept</th><td>Identify risks</td><td>Create watch list</td><td colspan="4"></td></tr>
 </table>
+
+<h2>Risk Register</h2>
+<table>
+  <tr>
+    <td>No.</td>
+    <td>Risk Category</td>
+    <td>Risk Source</td>
+    <td>Risk Owner</td>
+    <td>Risk Probability</td>
+    <td>Risk Impact</td>
+    <td>Risk Description</td>
+    <td>Risk Cause</td>
+    <td>Risk Response</td>
+    <td>Secondary Risk</td>
+    <td>Contingency Plan</td>
+    <td>Fallback Plan</td>
+    <td>Contingency Reserves</td>
+    <td>Watchlisted</td>
+  </tr>
+</table>
