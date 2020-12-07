@@ -128,3 +128,11 @@ He should eliminate threats or increase opportunities and thus decrease the proj
     <td>Watchlisted</td>
   </tr>
 </table>
+
+<h2>Contingency Reserves</h2>
+<table>
+  <tr><th>Project Data</th><th>Cost Contingency Reserve Calculation</th></tr>
+  <tr><td>There is a 30% probability of a delay in the receipt of parts, with a cost of $9,000.</td><td>Add $2,700</td></tr>
+  <tr><td>There is a 20% probability that the parts will cost $10,000 less than expected.</td><td>Subtract $2,000</td></tr>
+  <tr><th>Total Cost Contingency Reserve</th><th>$700</th></tr>
+</table>
