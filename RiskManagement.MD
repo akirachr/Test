@@ -1,10 +1,7 @@
 A project manager should prevent any risk events or problems according to the pre-defined risk management plan.<br>
 He should eliminate threats or increase opportunities and thus decrease the project's schedule and cost estimates.<br>
-1. Identify risks.<br>
-2. Evaluate risks.<br>
-3. Plan risk responses to risk events.<br>
 <br>
-Risk Factors<br>
+<h2>Risk Factors</h2>
 1. Probability<br>
 2. Impact<br>
 <br>
@@ -102,4 +99,9 @@ Risk Factors<br>
   <tr><td>Risk Event</td><td colspan="2">Residual Risk Event</td><td>-</td></tr>
   <tr><td>Risk response</td><td>Contingency plan</td><td>Fallback plan</td><td>Workaround</td></tr>
   <tr><td>Crash<br>Fast track</td><td colspan="2">Contingency reserves</td><td>Management reserves</td></tr>
+</table>
+
+<h2>Risk Process Flowchart</h2>
+<table>
+  <tr><td>Identify risks</td><td>Plan risk responses</td><td>Identify residual and secondary risks</td><td>Create contingency plans</td><td>Create fallback plans</td></tr>
 </table>
