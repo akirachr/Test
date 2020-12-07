@@ -103,8 +103,8 @@ He should eliminate threats or increase opportunities and thus decrease the proj
 
 <h2>Risk Process Flowchart</h2>
 <table>
-  <tr><td>Avoid</td><td>Identify risks</td><td>Plan risk responses</td><td colspan="3"></td><td>Implement risk responses</td></tr>
-  <tr><td>Mitigate</td><td>Identify risks</td><td>Plan risk responses</td><td>Identify residual and secondary risks</td><td>Create contingency plans</td><td>Create fallback plans</td><td>Implement risk responses</td></tr>
-  <tr><td>Transfer</td><td>Identify risks</td><td>Plan risk responses</td><td colspan="3"></td><td>Implement risk responses</td></tr>
-  <tr><td>Accept</td><td>Identify risks</td><td>Create watch list</td><td colspan="4"></td></tr>
+  <tr><th>Avoid</th><td>Identify risks</td><td>Plan risk responses</td><td colspan="3"></td><td>Implement risk responses</td></tr>
+  <tr><th>Mitigate</th><td>Identify risks</td><td>Plan risk responses</td><td>Identify residual and secondary risks</td><td>Create contingency plans</td><td>Create fallback plans</td><td>Implement risk responses</td></tr>
+  <tr><th>Transfer</th><td>Identify risks</td><td>Plan risk responses</td><td colspan="3"></td><td>Implement risk responses</td></tr>
+  <tr><th>Accept</th><td>Identify risks</td><td>Create watch list</td><td colspan="4"></td></tr>
 </table>
