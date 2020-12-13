@@ -3,7 +3,7 @@ A project manager must work with the procurement department throughout the life 
 <h2>Plan Procurement Management</h2>
 <table>
   <tr><th>Task</th><th>Details</th></tr>
-  <tr><td>Perform a Make-or-Buy Analysis</td><td></td></tr>
+  <tr><td>Perform a Make-or-Buy Analysis</td><td>It must be decided whether the project team will do all the work or if some or all of the work will be outsourced.</td></tr>
 <tr><td>Create a Procurement Management Plan</td><td>How procurement will be planned, executed, and controlled.</td></tr>
 <tr><td>Create a Procurement Strategy</td><td>How procurement will be executed through each phase.</td></tr>
   <tr>
@@ -37,5 +37,16 @@ A project manager must work with the procurement department throughout the life 
       </table>
     </td>
   </tr>
-<tr><td>Determine Source Selection Criteria</td></tr>
+  <tr>
+    <td>Determine Source Selection Criteria</td>
+    <td>
+    1. Number of years in business<br>
+    2. Financial stability<br>
+    3. Undertanding of needs<br>
+    4. Price<br>
+    5. Technical expertise<br>
+    6. Quality of past performance<br>
+    7. Ability to complete the work on time
+    </td>
+  </tr>
 </table>
