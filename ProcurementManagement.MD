@@ -18,16 +18,25 @@
   <tr><td>Bonds</td><td>Payment bond will protect the buyer from claims of nonpayment by the seller.</td></tr>
   <tr><td>Breach</td><td>Failure to complete an item in the SOW (seller's breach) cannot be handled by the buyer stopping the payment (buyer's breach).<br>
     If the buyer does not watch out and send an official notice of breach, it could lose its right to claim breach later.</td></tr>
-  <tr><td></td><td></td></tr>
-  <tr><td></td><td></td></tr>
-  <tr><td></td><td></td></tr>
-  <tr><td></td><td></td></tr>
-  <tr><td></td><td></td></tr>
-  <tr><td></td><td></td></tr>
-  <tr><td></td><td></td></tr>
-  <tr><td></td><td></td></tr>
-  <tr><td></td><td></td></tr>
-  <tr><td></td><td></td></tr>
+  <tr><td>Changes</td><td></td></tr>
+  <tr><td>Confidentiality/Nondisclosure</td><td></td></tr>
+  <tr><td>Dispute resolution</td><td></td></tr>
+  <tr><td>Force majeure</td><td></td></tr>
+  <tr><td>Incentives</td><td></td></tr>
+  <tr><td>Indemnification</td><td></td></tr>
+  <tr><td>Inspection</td><td></td></tr>
+  <tr><td>Intellectual property</td><td></td></tr>
+  <tr><td>Invoicing</td><td></td></tr>
+  <tr><td>Management requirements</td><td>attendance at meetings, reporting and so on</td></tr>
+  <tr><td>Notice</td><td></td></tr>
+  <tr><td>Ownership</td><td>Who will own the tangible items.</td></tr>
+  <tr><td>Payments</td><td></td></tr>
+  <tr><td>Procurement statement of work</td><td></td></tr>
+  <tr><td>Reporting</td><td></td></tr>
+  <tr><td>Retainage</td><td></td></tr>
+  <tr><td>Termination</td><td></td></tr>
+  <tr><td>Waivers</td><td></td></tr>
+  <tr><td>Warranties</td><td>Promises of quality for the goods or services delivered under the contract</td></tr>
 </table>
 <br>
 
