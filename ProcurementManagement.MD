@@ -47,18 +47,27 @@
     <td>Fixed Price</td>
     <td>
       The statement of work is clearly defined with requirements and specifications.<br>
-      It is used in construction rather than in IT.
+      It is used in construction rather than in IT.<br>
+      ・Watch for the seller cutting scope.<br>
+      ・Watch for the seller cutting quality.
     </td>
   </tr>
   <tr>
     <td>Time and Material</td>
-    <td>It is suited for a low-cost and short-period project. The buyer pays on a per-hour or per-item basis.</td>
+    <td>It is suited for a low-cost and short-period project. The buyer pays on a per-hour or per-item basis.<br>
+    ・Provide day-to-day directions to the seller.<br>
+    ・Attempt to get deliverables.<br>
+    ・Confirm that the number of hours spent on work is resonable.
+    </td>
   </tr>
   <tr>
     <td>Cost Reimbursable</td>
     <td>
       It is suited for a situation where the scope of work is uncertain and therefore cost cannot be accurately estimated.<br>
-      The buyer pays the seller cost and fee.
+      The buyer pays the seller cost and fee.<br>
+      ・Audit every invoice.<br>
+      ・Monitor if the seller's work is progressing efficiently.<br>
+      ・Watch for the seller adding unnecessary resources to the project.<br>
     </td>
   </tr>
 </table>
