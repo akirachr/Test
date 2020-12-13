@@ -199,7 +199,7 @@
 <br>
 <h2>Conduct Procurement</h2>
 <table>
-  <tr><th>Item</th><th>Description</th></tr>
+  <tr><th>Task</th><th>Details</th></tr>
   <tr><td>Bidder Conference</td><td>Make sure all questions and answers are put in writing and sent to all potential sellers by te buyer as addenda to the bid documents</td>
   <tr>
     <td>Weighting System</td>
