@@ -8,6 +8,7 @@
 <br>
 <h2>Contract Types</h2>
 <table>
+  <tr><th>Contract Type</th><th>Description</th></tr>
   <tr>
     <td>Fixed Price</td>
     <td>
@@ -29,7 +30,7 @@
 </table>
 <br>
 <table>
-  <tr><th>COntract Type</th><th>Risk to buyer</th></tr>
+  <tr><th>Contract Type</th><th>Risk to buyer</th></tr>
   <tr><td>Cost Plus Percentage of Costs</td><td>High</td></tr>
   <tr><td>Cost Plus Fixed Fee</td><td></td></tr>
   <tr><td>Cost Plus Award Fee</td><td></td></tr>
