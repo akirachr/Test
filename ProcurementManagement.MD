@@ -42,6 +42,31 @@
   <tr><td>Fixed Price</td><td>Low</td></tr>
   </table>
 <br>
+<table>
+  <tr><th>Contract Type</th><th>Example</th></tr>
+  <tr>
+    <td>Cost Plus Incentive Fee</td>
+    <td>
+      <table>
+        <tr><td>Target Cost:</td><td>$100,000</td></tr>
+        <tr><td>Target Fee:</td><td>$10,000</td></tr>
+        <tr><td>Target Price:</td><td>$110,000</td></tr>
+        <tr><td>Sharing Ratio:</td><td>80/20</td></tr>
+        <tr><td>Actual Cost:</td><td>$90,000</td></tr>
+        <tr><td>Final Fee:</td>
+        <td>
+        $100,000 - $90,000 = $10,000<br>
+        $10,000 x 20% = $2,000<br>
+        $10,000 + $2,000 = $12,000<br>
+        </td>
+        </tr>
+        <tr><td>Final Price:</td><td></td></tr>
+        <tr><td></td><td>$90,000 + $12,000 = $102,000</td></tr>
+      <table>
+    </td>
+  </tr>
+</table>
+  <br>
 <h2>Plan Procurement Management</h2>
 <table>
   <tr><th>Task</th><th>Details</th></tr>
