@@ -40,7 +40,7 @@
   <tr><td>Fixed Price Award Fee</td><td></td></tr>
   <tr><td>Fixed Price Incentive Fee</td><td></td></tr>
   <tr><td>Fixed Price</td><td>Low</td></tr>
-  </table>
+</table>
 <br>
 <table>
   <tr><th>Contract Type</th><th>Example</th></tr>
@@ -60,8 +60,7 @@
         $10,000 + $2,000 = $12,000<br>
         </td>
         </tr>
-        <tr><td>Final Price:</td><td></td></tr>
-        <tr><td></td><td>$90,000 + $12,000 = $102,000</td></tr>
+        <tr><td>Final Price:</td><td>$90,000 + $12,000 = $102,000</td></tr>
       <table>
     </td>
   </tr>
