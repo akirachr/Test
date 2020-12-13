@@ -29,15 +29,16 @@
 </table>
 <br>
 <table>
-  <tr><td>Cost Plus Percentage od Costs</td></tr>
-  <tr><td>Cost Plus Fixed Fee</td></tr>
-  <tr><td>Cost Plus Award Fee</td></tr>
-  <tr><td>Cost Plus Incentive Fee</td></tr>
-  <tr><td>Time and Material</td></tr>
-  <tr><td>Fixed Price with Economic Price Adjustments</td></tr>
-  <tr><td>Fixed Price Award Fee</td></tr>
-  <tr><td>Fixed Price Incentive Fee</td></tr>
-  <tr><td>Fixed Price</td></tr>
+  <tr><th>COntract Type</th><th>Risk to buyer</th></tr>
+  <tr><td>Cost Plus Percentage of Costs</td><td>High</td></tr>
+  <tr><td>Cost Plus Fixed Fee</td><td></td></tr>
+  <tr><td>Cost Plus Award Fee</td><td></td></tr>
+  <tr><td>Cost Plus Incentive Fee</td><td></td></tr>
+  <tr><td>Time and Material</td><td></td></tr>
+  <tr><td>Fixed Price with Economic Price Adjustments</td><td></td></tr>
+  <tr><td>Fixed Price Award Fee</td><td></td></tr>
+  <tr><td>Fixed Price Incentive Fee</td><td></td></tr>
+  <tr><td>Fixed Price</td><td>Low</td></tr>
   </table>
 <br>
 <h2>Plan Procurement Management</h2>
