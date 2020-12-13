@@ -61,7 +61,7 @@
         </td>
         </tr>
         <tr><td>Final Price:</td><td>$90,000 + $12,000 = $102,000</td></tr>
-      <table>
+      </table>
     </td>
   </tr>
 </table>
