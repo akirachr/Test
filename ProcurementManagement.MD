@@ -6,6 +6,31 @@
 2. Contract must include procurement statement of work.<br>
 3. Contract must include terms and conditions.<br>
 <br>
+
+<h2>Contract Terms and Conditions</h2>
+<table>
+  <tr><th>Item</th><th>Description</th></tr>
+  <tr><td>Acceptance</td><td>Work acceptance criteria</td></tr>
+  <tr><td>Agent</td><td>Authorized representative of each party</td></tr>
+  <tr><td>Arbitration</td><td>Third party resolves a dispute instead of the court.</td></tr>
+  <tr><td>Assignment</td><td>One party assigns obligations to another.</td></tr>
+  <tr><td>Authority</td><td>Who has the power to do what.</td></tr>
+  <tr><td>Bonds</td><td>Payment bond will protect the buyer from claims of nonpayment by the seller.</td></tr>
+  <tr><td>Breach</td><td>Failure to complete an item in the SOW (seller's breach) cannot be handled by the buyer stopping the payment (buyer's breach).<br>
+    If the buyer does not watch out and send an official notice of breach, it could lose its right to claim breach later.</td></tr>
+  <tr><td></td><td></td></tr>
+  <tr><td></td><td></td></tr>
+  <tr><td></td><td></td></tr>
+  <tr><td></td><td></td></tr>
+  <tr><td></td><td></td></tr>
+  <tr><td></td><td></td></tr>
+  <tr><td></td><td></td></tr>
+  <tr><td></td><td></td></tr>
+  <tr><td></td><td></td></tr>
+  <tr><td></td><td></td></tr>
+</table>
+<br>
+
 <h2>Contract Types</h2>
 <table>
   <tr><th>Contract Type</th><th>Description</th></tr>
