@@ -3,7 +3,7 @@
 3. A project manager must make sure the contract includes the scope of work and project management activities.<br>
 <h2>Contract</h2>
 1. Contract is legally binding.<br>
-2. Contract must include procurement statemnt of work.
+2. Contract must include procurement statement of work.
 <br>
 <h2>Plan Procurement Management</h2>
 <table>
