@@ -10,7 +10,7 @@ A project manager must work with the procurement department throughout the life 
     <td>Create a Procurement Statement of Work</td>
     <td>
       <table>
-        <tr><td>Scope of work</td></tr>
+        <tr><td>Scope of work</td><td></td></tr>
         <tr><td>Project management activities</td><td>1. Attendance at meetings<br>2. Reporting<br>3. Acceptance criteria</td></tr>
       </table>
     </td>
@@ -19,16 +19,17 @@ A project manager must work with the procurement department throughout the life 
   <tr>
     <td>Create Bid Documents</td>
     <td>
+      It consists of the documents below.<br>
       1. Procurement statement of work<br>
       2. Contract terms and conditions<br>
       <table>
         <tr><td>RFP</td><td>Request for proposal</td>
           <td>
             It requests the items below.<br>
-            Price<br>
-            How the work will be accomplished.<br>
-            Who will do it (along with resumes).<br>
-            Company experience
+            1. Price<br>
+            2. How the work will be accomplished.<br>
+            3. Who will do it (along with resumes).<br>
+            4. Company experience
           </td>
         </tr>
         <tr><td>RFI</td><td>Request for information</td><td>It is used before bid documents are created.</td></tr>
