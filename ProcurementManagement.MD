@@ -196,3 +196,24 @@
     </td>
   </tr>
 </table>
+<br>
+<h2>Conduct Procurement</h2>
+<table>
+  <tr><th>Item</th><th>Description</th></tr>
+  <tr><td>Bidder Conference</td><td>Make sure all questions and answers are put in writing and sent to all potential sellers by te buyer as addenda to the bid documents</td>
+  <tr>
+    <td>Weighting System</td>
+    <td>
+      <table>
+        <tr><th>Criteria</th><th>Weight</th><th>Rating(1 to 100)</th><th>Score</th></tr>
+        <tr><td>Number of years in business</td><td>5%</td><td></td><td></td></tr>
+        <tr><td>Understanding of needs</td><td>25%</td><td></td><td></td></tr>
+        <tr><td>Price</td><td>10%</td><td></td><td></td></tr>
+        <tr><td>Technical ability</td><td>25%</td><td></td><td></td></tr>
+        <tr><td>Ability to complete the work on time</td><td>20%</td><td></td><td></td></tr>
+        <tr><td>Project management ability</td><td>15%</td><td></td><td></td></tr>
+      </table>
+    </td>
+  </tr>
+</tr>
+</table>
