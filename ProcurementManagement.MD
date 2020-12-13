@@ -64,7 +64,6 @@
       </table>
     </td>
   </tr>
-  <tr><th>Contract Type</th><th>Example</th></tr>
   <tr>
     <td>Cost Plus Incentive Fee</td>
     <td>
@@ -82,6 +81,27 @@
         </td>
         </tr>
         <tr><td>Final Price:</td><td>$110,000 + $8,000 = $118,000</td></tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td>Fixed Price Incentive Fee</td>
+    <td>
+      <table>
+        <tr><td>Target Cost:</td><td>$100,000</td></tr>
+        <tr><td>Target Fee:</td><td>$10,000</td></tr>
+        <tr><td>Target Price:</td><td>$110,000</td></tr>
+        <tr><td>Sharing Ratio:</td><td>80/20</td></tr>
+        <tr><td>Ceiling Price:</td><td>$110,000</td></tr>
+        <tr><td>Actual Cost:</td><td>$110,000</td></tr>
+        <tr><td>Final Fee:</td>
+        <td>
+        $100,000 - $110,000 = -$10,000<br>
+        -$10,000 x 20% = -$2,000<br>
+        $10,000 - $2,000 = $8,000<br>
+        </td>
+        </tr>
+        <tr><td>Final Price:</td><td>$110,000 + $8,000 = $118,000<br>However, it should be $110,000</td></tr>
       </table>
     </td>
   </tr>
