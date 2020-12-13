@@ -5,6 +5,28 @@
 1. Contract is legally binding.<br>
 2. Contract must include procurement statement of work.
 <br>
+<h2>Contract Types</h2>
+<table>
+  <tr>
+    <td>Fixed Price</td>
+    <td>
+      The statement of work is clearly defined with requirements and specifications.<br>
+      It is used in construction rather than in IT.
+    </td>
+  </tr>
+  <tr>
+    <td>Time and Material</td>
+    <td>It is suited for a low-cost and short-period project. The buyer pays on a per-hour oe per-item basis.</td>
+  </tr>
+  <tr>
+    <td>Cost Reimbursable</td>
+    <td>
+      It is suited for a situatin where the scope of work is uncertain and therefore cost cannot be accurately estimated.<br>
+      The buyer pays the seller cost and fee.
+    </td>
+  </tr>
+</table>
+<br>
 <h2>Plan Procurement Management</h2>
 <table>
   <tr><th>Task</th><th>Details</th></tr>
