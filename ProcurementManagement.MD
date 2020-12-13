@@ -1,4 +1,9 @@
-A project manager must work with the procurement department throughout the life of the procurement.
+1. A project manager must work with the procurement department throughout the life of the procurement.<br>
+2. A project manager must be involved early in the procurement process, before the contract is signed, so that time and cost constraints are realistic.<br>
+3. A project manager must make sure the contract includes the scope of work and project management activities.<br>
+<h2>Contract</h2>
+1. Contract is legally binding.<br>
+2. Contract must include procurement statemnt of work.
 <br>
 <h2>Plan Procurement Management</h2>
 <table>
