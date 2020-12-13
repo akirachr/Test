@@ -16,12 +16,12 @@
   </tr>
   <tr>
     <td>Time and Material</td>
-    <td>It is suited for a low-cost and short-period project. The buyer pays on a per-hour oe per-item basis.</td>
+    <td>It is suited for a low-cost and short-period project. The buyer pays on a per-hour or per-item basis.</td>
   </tr>
   <tr>
     <td>Cost Reimbursable</td>
     <td>
-      It is suited for a situatin where the scope of work is uncertain and therefore cost cannot be accurately estimated.<br>
+      It is suited for a situation where the scope of work is uncertain and therefore cost cannot be accurately estimated.<br>
       The buyer pays the seller cost and fee.
     </td>
   </tr>
