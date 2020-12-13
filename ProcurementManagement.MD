@@ -50,6 +50,7 @@
       It consists of the documents below.<br>
       1. Procurement statement of work<br>
       2. Contract terms and conditions<br>
+      <br>
       <table>
         <tr><td>RFP</td><td>Request for proposal</td>
           <td>
@@ -63,6 +64,10 @@
         <tr><td>RFI</td><td>Request for information</td><td>It is used before bid documents are created.</td></tr>
         <tr><td>RFQ</td><td>Request for quotation</td><td>It requires a price quote per item, hour, or other unit of measure.</td></tr>
       </table>
+      It also has to include the information below.<br>
+      3. Background information about why the buyer wants the work done.<br>
+      4. Bidder conference.<br>
+      5. Source selection criteria
     </td>
   </tr>
   <tr>
