@@ -206,7 +206,7 @@
   </tr>
 </table>
 <br>
-<h2>Conduct Procurement</h2>
+<h2>Conduct Procurements</h2>
 <table>
   <tr><th>Task</th><th>Details</th></tr>
   <tr><td>Bidder Conference</td><td>Make sure all questions and answers are put in writing and sent to all potential sellers by te buyer as addenda to the bid documents</td>
@@ -225,4 +225,19 @@
     </td>
   </tr>
 </tr>
+<br>
+<h2>Controll Procurements</h2>
+<table>
+  <tr><td>Review invoices</td></tr>
+  <tr><td>Evaluate and submit changes through integrated change control</td></tr>
+  <tr><td>Document and record everything</td></tr>
+  <tr><td>Interate approved changes</td></tr>
+  <tr><td>Accept verified deliverables</td></tr>
+  <tr><td>Perform inspections and audits</td></tr>
+  <tr><td>Authorize payments to the seller</td></tr>
+  <tr><td>Interprete what is and what is not in the contract</td></tr>
+  <tr><td>Resolve disputes</td></tr>
+  <tr><td>Hold procurement performance review meetings</td></tr>
+  <tr><td>Communicate with the seller</td></tr>
+  <tr><td>Perform contract closure</td></tr>
 </table>
