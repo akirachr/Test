@@ -11,3 +11,4 @@
 <tr><td>8</td><td>Validate the scope (Accept the deliverable)</td></tr>
 <tr><td>9</td><td>Request a change to the scope in Integrated Change Control</td></tr>
 </table>
+
