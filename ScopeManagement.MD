@@ -1,4 +1,11 @@
 <table>
+  <tr><th rowspans="4">Requirement</th><td>Quality</td></tr>
+  <tr><td>Business Processes</td></tr>
+  <tr><td>COmpliance</td></tr>
+  <tr><td>Project Management</td></tr>
+</table>
+
+<table>
   <tr><th>Product Scope</th><td>The requirements that relate to a product or service.</td></tr>
   <tr><th>Project Scope</th><td>The work the project team will do to deliver a product or service. Plus Product Scope.</td></tr>
 </table>
