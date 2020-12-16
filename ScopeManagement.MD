@@ -1,7 +1,7 @@
 <table>
-  <tr><th rowspans="4">Requirement</th><td>Quality</td></tr>
+  <tr><th rowspan="4">Requirement</th><td>Quality</td></tr>
   <tr><td>Business Processes</td></tr>
-  <tr><td>COmpliance</td></tr>
+  <tr><td>Compliance</td></tr>
   <tr><td>Project Management</td></tr>
 </table>
 
