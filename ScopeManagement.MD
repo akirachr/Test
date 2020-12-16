@@ -12,3 +12,4 @@
 <tr><td>9</td><td>Request a change to the scope in Integrated Change Control</td></tr>
 </table>
 
+<img width="635" alt="Scope" src="https://user-images.githubusercontent.com/3501210/102343432-e52a2980-3fdd-11eb-91a2-b1b460311278.PNG">
