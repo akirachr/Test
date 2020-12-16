@@ -1,3 +1,7 @@
+<table>
+  <tr><th>Product Scope</th><td>The requirements that relate to a product or service.</td></tr>
+  <tr><th>Project Scope</th><td>The work the project team will do to deliver a product or service. Plus Product Scope.</td></tr>
+</table>
 
 <table>
 <tr><th>No.</th><th>Task</th></tr>
