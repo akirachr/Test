@@ -46,7 +46,19 @@
 </table>
 
 <h2>Collect Requirements</h2>
-Affinity Diagram<br>
-Context Diagram<br>
-Cross Functional Flow Diagram<br>
-Requirement Traceability Matrix<br>
+<table>
+  <tr><th>Affinity Diagram</th>
+    <td>
+      Requirements are grouped by similarities.<br>
+      Business requirements<br>
+      Stakeholder requirements<br>
+      Solution requirements<br>
+      Transition requirements<br>
+      Project requirements
+    </td>
+  </tr>
+  <tr><th>Context Diagram</th><td>It shows product interfaces with other entities (People, Company, System).</td></tr>
+  <tr><th>Cross Functional Flow Diagram</th><td></td></tr>
+  <tr><th>Requirement Traceability Matrix</th><td>It links requirements to objectives.</td></tr>
+</table>
+
