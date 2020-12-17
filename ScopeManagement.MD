@@ -86,3 +86,7 @@ WBS Dictionary<br>
     </td>
   </tr>
 </table>
+
+<h2>Validate Scope</h2>
+
+<h2>Control Scope</h2>
