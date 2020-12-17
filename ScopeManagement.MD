@@ -25,3 +25,22 @@
 </table>
 
 <img width="635" alt="Scope" src="https://user-images.githubusercontent.com/3501210/102343432-e52a2980-3fdd-11eb-91a2-b1b460311278.PNG">
+
+<h2>Plan Scope Management</h2>
+<table>
+  <tr><th>Scope Management Plan</th>
+    <td>
+      How to achieve the scope<br>
+      How to create a WBS<br>
+      How to control the cope<br>
+      How to obtain acceptance of deliverables
+    </td>
+  </tr>
+  <tr><th>Requirement Management Plan</th>
+    <td>
+      How to analyze requirements<br>
+      How to manage requirements<br>
+      How to track changes to requirements
+    </td>
+  </tr>
+</table>
