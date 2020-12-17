@@ -20,7 +20,8 @@
 <tr><td>6</td><td>Accomplish the scope of work (Complete the deliverable in Direct and Manage Project Work)</td></tr>
 <tr><td>7</td><td>Verify the deliverable (Control Quality)</td></tr>
 <tr><td>8</td><td>Validate the scope (Accept the deliverable)</td></tr>
-<tr><td>9</td><td>Request a change to the scope in Integrated Change Control</td></tr>
+<tr><td>9</td><td>Evaluate a scope change for its effect on cost, time, risk, quality, resources, and customer satisfaction.</td></tr>
+<tr><td>10</td><td>Request a change to the scope in Integrated Change Control</td></tr>
 </table>
 
 <img width="635" alt="Scope" src="https://user-images.githubusercontent.com/3501210/102343432-e52a2980-3fdd-11eb-91a2-b1b460311278.PNG">
