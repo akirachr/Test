@@ -62,3 +62,14 @@
   <tr><th>Requirement Traceability Matrix</th><td>It links requirements to objectives.</td></tr>
 </table>
 
+<h2>Define Scope</h2>
+<table>
+  <tr><th>Project Scope Statement</th>
+    <td>
+      Product scope<br>
+      Project scope<br>
+      Deliverables<br>
+      Assumptions and constraints
+    </td>
+  </tr>
+</table>
