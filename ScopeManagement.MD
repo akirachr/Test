@@ -44,3 +44,9 @@
     </td>
   </tr>
 </table>
+
+<h2>Collect Requirements</h2>
+Affinity Diagram<br>
+Context Diagram<br>
+Cross Functional Flow Diagram<br>
+Requirement Traceability Matrix<br>
