@@ -73,3 +73,16 @@
     </td>
   </tr>
 </table>
+
+<h2>Create WBS</h2>
+WBS<br>
+WBS Dictionary<br>
+<table>
+  <tr><th>Scope Baseline</th>
+    <td>
+      WBS<br>
+      WBS Dictionary<br>
+      Deliverables
+    </td>
+  </tr>
+</table>
