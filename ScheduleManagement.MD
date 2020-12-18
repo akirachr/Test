@@ -14,4 +14,11 @@
 <tr><th>Crash</th><td>Add new resources to an activity</td></tr>
 <tr><th>Compress Schedule</th><td>Mov more experienced resources to an activity on the critical path</td></tr>
 <tr><th>Reduce Scope</th><td>Cut an activity</td></tr>
+<tr><th>Leveling</th><td>Rearrange resources so that a constant number of resources is used each month</td></tr>
 </table>
+
+1. Create a Network Diagam<br>
+2. Estimate each Activity<br>
+3. Create a Schedule<br>
+4. Compress the Schedule<br>
+5. Gain Approval
