@@ -12,3 +12,11 @@
 <h2>Monitor and Control Project Work</h2>
 It tracks, reviews, and reports the project progress trying to meet the performance objectives defined in the project management plan.<br>
 It forecasts cost and schedule variance in the future.<br>
+<table>
+  <tr><td>1. </td><td>Compare actual project performance against the project management plan</td></tr>
+  <tr><td>2. </td><td>Provide forecasts to update the current cost and schedule information</td></tr>
+  <tr><td>3. </td><td>Report the project progress and status to the program management</td></tr>
+  <tr><td>4. </td><td>Determine corrective or prevntive actions</td></tr>
+  <tr><td>5. </td><td>Check the project risks</td></tr>
+  <tr><td>6. </td><td>Monitor implementation of approved changes</td></tr>
+</table>
