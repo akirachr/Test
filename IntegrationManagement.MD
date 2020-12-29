@@ -10,9 +10,6 @@
 </table>
 
 <h2>Develop Project Charter</h2>
-
-<h2>Develop Project Management Plan</h2>
-It defines how the project is executed, monitored and controlled, and closed.<br>
 <table>
   <tr><td rowspan="4">Business Case</td><td>Business need</td></tr>
   <tr><td>Required solution</td></tr>
@@ -20,7 +17,7 @@ It defines how the project is executed, monitored and controlled, and closed.<br
   <tr><td>Cost-benefit analysis</td></tr>
 </table>
 <table>
-  <tr><td rowspan="4">Project Charter</td><td>Project purpose</td></tr>
+  <tr><td>Project purpose</td></tr>
   <tr><td>Measurable project objectives and related success criteria</td></tr>
   <tr><td>High-level requirements</td></tr>
   <tr><td>High-level project description, boundaries, and key deliverables</td></tr>
@@ -33,6 +30,10 @@ It defines how the project is executed, monitored and controlled, and closed.<br
   <tr><td>Assigned project manager</td></tr>
   <tr><td>The sponsor and other persons authorizing the project charter</td></tr>
 </table>
+
+<h2>Develop Project Management Plan</h2>
+It defines how the project is executed, monitored and controlled, and closed.<br>
+
 <table>
   <tr><th>Project Management Plan</th><th colspan="2">Project Documents</th></tr>
   <tr><td>1. Scope management plan</td><td>1. Activity attributes</td><td>19. Quality control measurements</td></tr>
