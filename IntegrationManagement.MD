@@ -38,3 +38,14 @@ It forecasts cost and schedule variance in the future.<br>
   <tr><td>6. </td><td>Check the project risks</td></tr>
   <tr><td>7. </td><td>Monitor implementation of approved changes</td></tr>
 </table>
+
+<h2>Perform Integrated Change Control</h2>
+It is the process of reviewing all change requests.<br>
+
+<table>
+  <tr><td>Monitor and Control Project Work</td><td>Work performnce reports<br>Change requests</td><td rowspan="4">Perform Integrated Change Conrol</td></tr>
+  <tr><td>Control Scope</td><td>Change requests</td><td>Perform Integrated Change Conrol</td></tr>
+  <tr><td>Control Schedule</td><td>Change requests</td><td>Perform Integrated Change Conrol</td></tr>
+  <tr><td>Control Costs</td><td>Change requests</td><td>Perform Integrated Change Conrol</td></tr>
+</table>
+  
