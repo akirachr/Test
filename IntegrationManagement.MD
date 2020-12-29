@@ -12,7 +12,7 @@
 <h2>Direct and Manage Project Work</h2>
 It performs the work defined in the project management plan and implements approved change requests.<br>
 <table>
-  <tr><td></td><td>Project Management Plan</td><td rowspan="2">Direct and Manage Project Work</td><td rowspan="2">Deliverables</td><td rowspan="2">Control Quality</td></tr>
+  <tr><td></td><td>Project Management Plan</td><td rowspan="3">Direct and Manage Project Work</td><td rowspan="2">Deliverables</td><td rowspan="2">Control Quality</td></tr>
   <tr><td rowspan="2">Perform Integrated Change Control</td><td rowspan="2">Approved Change Requests</td></tr>
 </table>
 
