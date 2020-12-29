@@ -17,7 +17,7 @@
   <tr><td>Cost-benefit analysis</td></tr>
 </table>
 <table>
-  <tr><td>Project purpose</td></tr>
+  <tr><td rowspan="12">Project Charter</td><td>Project purpose</td></tr>
   <tr><td>Measurable project objectives and related success criteria</td></tr>
   <tr><td>High-level requirements</td></tr>
   <tr><td>High-level project description, boundaries, and key deliverables</td></tr>
