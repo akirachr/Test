@@ -61,7 +61,7 @@ It is the process of reviewing all change requests.<br>
 </table>
 
 <table>
-  <tr><td>Control Scope</td><td rowspan="4">Work Performance Information</td><td rowspan="4">Monitor and Control Project Work</td><td rowspan="4">Work Performance Reports</td><td>Perform Integrated Change COntrol</td></tr>
+  <tr><td rowspan="4">Work Performance Data</td><td>Control Scope</td><td rowspan="4">Work Performance Information</td><td rowspan="4">Monitor and Control Project Work</td><td rowspan="4">Work Performance Reports</td><td>Perform Integrated Change Control</td></tr>
   <tr><td>Control Schedule</td><td>Manage Team</td></tr>
   <tr><td>Control Costs</td><td>Manage Communications</td></tr>
   <tr><td>Control Quality</td><td>Monitor Risks</td></tr>
