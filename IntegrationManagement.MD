@@ -48,4 +48,6 @@ It is the process of reviewing all change requests.<br>
   <tr><td>Control Schedule</td><td>Change requests</td></tr>
   <tr><td>Control Costs</td><td>Change requests</td></tr>
 </table>
-  
+
+<h2>Close Project or Phase</h2>
+It is the process of finalizing all activities for the project.
