@@ -13,7 +13,8 @@
 It tracks, reviews, and reports the project progress trying to meet the performance objectives defined in the project management plan.<br>
 It forecasts cost and schedule variance in the future.<br>
 <table>
-  <tr><td>1. </td><td>Compare actual project performance against the project management plan</td></tr>
+  <tr><td>1. </td><td>Collect work performance information from each Knowledge Area (Control Schedule, Control Costs)</td></tr>
+  <tr><td>1. </td><td>Compare actual project performance against the project management plan from the an integrrated perspective</td></tr>
   <tr><td>2. </td><td>Provide forecasts to update the current cost and schedule information</td></tr>
   <tr><td>3. </td><td>Report the project progress and status to the program management</td></tr>
   <tr><td>4. </td><td>Determine corrective or prevntive actions to resolve performance issues</td></tr>
