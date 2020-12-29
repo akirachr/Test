@@ -54,7 +54,7 @@ It forecasts cost and schedule variance in the future.<br>
 It is the process of reviewing all change requests.<br>
 
 <table>
-  <tr><td>Monitor and Control Project Work</td><td>Work performnce reports<br>Change requests</td><td rowspan="4">Perform Integrated Change Conrol</td></tr>
+  <tr><td>Monitor and Control Project Work</td><td>Work performnce reports<br>Change requests</td><td rowspan="4">Perform Integrated Change Conrol</td><td rowspan="4">Approved Change Requests</td></tr>
   <tr><td>Control Scope</td><td>Change requests</td></tr>
   <tr><td>Control Schedule</td><td>Change requests</td></tr>
   <tr><td>Control Costs</td><td>Change requests</td></tr>
