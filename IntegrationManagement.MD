@@ -10,6 +10,8 @@
 </table>
 
 <h2>Direct and Manage Project Work</h2>
+It performs the work defined in the project management plan and implements approved change requests.<br>
+
 <h2>Manage Project Knowledge</h2>
 <h2>Monitor and Control Project Work</h2>
 It tracks, reviews, and reports the project progress trying to meet the performance objectives defined in the project management plan.<br>
