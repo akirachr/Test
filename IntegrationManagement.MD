@@ -8,3 +8,7 @@
 <tr><td>Perform Integrated Change Control</td><td>Monitoring and Controlling Process Group</td></tr>
 <tr><td>CLose Project or Phase</td><td>Closing Process Group</td></tr>
 </table>
+
+<h2>Monitor and Control Project Work</h2>
+It tracks, reviews, and reports the project progress trying to meet the performance objectives defined in the project management plan.<br>
+It forecasts cost and schedule variance in the future.<br>
