@@ -6,15 +6,16 @@
 <tr><td>Manage Project Knowledge</td><td>Executing Process Group</td></tr>
 <tr><td>Monitor and Control Project Work</td><td>Monitoring and Controlling Process Group</td></tr>
 <tr><td>Perform Integrated Change Control</td><td>Monitoring and Controlling Process Group</td></tr>
-<tr><td>CLose Project or Phase</td><td>Closing Process Group</td></tr>
+<tr><td>Close Project or Phase</td><td>Closing Process Group</td></tr>
 </table>
 
 <h2>Direct and Manage Project Work</h2>
 It performs the work defined in the project management plan and implements approved change requests.<br>
 <table>
   <tr><td></td><td>Project Management Plan</td><td rowspan="3">Direct and Manage Project Work</td><td rowspan="2">Deliverables</td><td rowspan="2">Control Quality</td></tr>
-  <tr><td rowspan="2">Perform Integrated Change Control</td><td rowspan="2">Approved Change Requests</td></tr>
-  <tr><td>Work Performance Data</td><td>Control Scope</td></tr>
+  <tr><td rowspan="3">Perform Integrated Change Control</td><td rowspan="3">Approved Change Requests</td></tr>
+  <tr><td rowspan="2">Work Performance Data</td><td>Control Scope</td></tr>
+  <tr><td>Control Schedule</td></tr>
 </table>
 
 <h2>Manage Project Knowledge</h2>
