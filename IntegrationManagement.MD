@@ -13,7 +13,7 @@
 It performs the work defined in the project management plan and implements approved change requests.<br>
 <table>
   <tr><td></td><td>Project Management Plan</td><td rowspan="3">Direct and Manage Project Work</td><td rowspan="">Deliverables</td><td rowspan="2">Control Quality</td></tr>
-  <tr><td>Perform Integrated Change Control</td><td>Approved Change Requests</td></tr>
+  <tr><td rowspan="2">Perform Integrated Change Control</td><td rowspan="2">Approved Change Requests</td></tr>
   <tr><td>Work Performance Data</td><td>Scontrol Scope</td></tr>
 </table>
 
