@@ -60,5 +60,12 @@ It is the process of reviewing all change requests.<br>
   <tr><td>Control Costs</td><td>Change requests</td></tr>
 </table>
 
+<table>
+  <tr><td>Control Scope</td><td rowspan="3">Work Performance Information</td><td rowspan="3">Monitor and Control Project Work</td></tr>
+  <tr><td>Control Schedule</td></tr>
+  <tr><td>Control Costs</td></tr>
+
+</table>
+
 <h2>Close Project or Phase</h2>
 It is the process of finalizing all activities for the project.
