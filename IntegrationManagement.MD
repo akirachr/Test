@@ -18,6 +18,7 @@ It forecasts cost and schedule variance in the future.<br>
   <tr><td>3. </td><td>Provide forecasts to update the current cost and schedule information</td></tr>
   <tr><td>4. </td><td>Report the project progress and status to the program management (Work Performance Reports)<br>
     <table>
+      <caption>Work Performance Reports</caption>
       <tr>
         <td>
     Work Performance Reports generate awareness, decisions, and actions.<br>
