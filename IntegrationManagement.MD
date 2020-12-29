@@ -9,6 +9,28 @@
 <tr><td>Close Project or Phase</td><td>Closing Process Group</td></tr>
 </table>
 
+<h2>Develop Project Management Plan</h2>
+It defines how the project is executed, monitored and controlled, and closed.<br>
+
+<table>
+  <tr><th>Project Management Plan</th><th colspna="2">Project Documents</th></tr>
+  <tr><td>1. Scope management plan</td><td>1. Activity attributes</td><td>19. Quality control measurements</td></tr>
+  <tr><td>2. Requirements management plan</td><td>2. Activity list</td><td>20. Quality metrics</td></tr>
+  <tr><td>3. Schedule management plan</td><td>3. Assumption log</td><td>21. Quality report</td></tr>
+  <tr><td>4. Cost management plan</td><td>4. Basis of estimates</td><td>22. Requirements documentation</td></tr>
+  <tr><td>5. Quality management plan</td><td>5. Change log</td><td>23. Requirements traceability matrix</td></tr>
+  <tr><td>6. Resource management plan</td><td>6. Cost estimates</td><td>24. Resource breakdown structure</td></tr>
+  <tr><td>7. Communications management plan</td><td>7. COst forecasts</td><td>25. Resource calendars</td></tr>
+  <tr><td></td><td></td><td></td></tr>
+  <tr><td></td><td></td><td></td></tr>
+  <tr><td></td><td></td><td></td></tr>
+  <tr><td></td><td></td><td></td></tr>
+  <tr><td></td><td></td><td></td></tr>
+  <tr><td></td><td></td><td></td></tr>
+  <tr><td></td><td></td><td></td></tr>
+  <tr><td></td><td></td><td></td></tr>
+</table>
+
 <h2>Direct and Manage Project Work</h2>
 It performs the work defined in the project management plan and implements approved change requests.<br>
 <table>
