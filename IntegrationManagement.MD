@@ -28,10 +28,13 @@ It forecasts cost and schedule variance in the future.<br>
     </table>
       </td></tr>
   <tr><td>5. </td><td>Determine corrective or prevntive actions to resolve performance issues<br>
-    Change Requests<br>
-    *Corrective action<br>
-    *Preventive action<br>
-    *Defect repair</td></tr>
+    Other than isueing from each Project Knowledge Area, Monitor and Control Project Work also issues change requests to Perform Integrate Change Control.<br>
+    <table>
+    <caption>Change Requests</caption>
+      <tr><td>Corrective action</td></tr>
+      <tr><td>Preventive action</td></tr>
+      <tr><td>Defect repair</td></tr>
+    </table>
   <tr><td>6. </td><td>Check the project risks</td></tr>
   <tr><td>7. </td><td>Monitor implementation of approved changes</td></tr>
 </table>
