@@ -28,7 +28,7 @@ It forecasts cost and schedule variance in the future.<br>
     </table>
       </td></tr>
   <tr><td>5. </td><td>Determine corrective or prevntive actions to resolve performance issues<br>
-    Other than issueing from each Project Knowledge Area, Monitor and Control Project Work also issues change requests to Perform Integrate Change Control.<br>
+    Other than issuing from each Project Knowledge Area, Monitor and Control Project Work also issues change requests to Perform Integrate Change Control.<br>
     <table>
     <caption>Change Requests</caption>
       <tr><td>Corrective action</td></tr>
