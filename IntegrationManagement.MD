@@ -17,8 +17,15 @@ It forecasts cost and schedule variance in the future.<br>
   <tr><td>2. </td><td>Compare actual project performance against the project management plan from the an integrated perspective</td></tr>
   <tr><td>3. </td><td>Provide forecasts to update the current cost and schedule information</td></tr>
   <tr><td>4. </td><td>Report the project progress and status to the program management (Work Performance Reports)<br>
+    <table>
+      <tr>
+        <td>
     Work Performance Reports generate awareness, decisions, and actions.<br>
-    They are circulated to the stakeholders through communication processes.</td></tr>
+    They are circulated to the stakeholders through communication processes.
+        </td>
+      </tr>
+    </table>
+      </td></tr>
   <tr><td>5. </td><td>Determine corrective or prevntive actions to resolve performance issues<br>
     Change Requests<br>
     *Corrective action<br>
