@@ -13,22 +13,25 @@
 It defines how the project is executed, monitored and controlled, and closed.<br>
 
 <table>
-  <tr><th>Project Management Plan</th><th colspna="2">Project Documents</th></tr>
+  <tr><th>Project Management Plan</th><th colspan="2">Project Documents</th></tr>
   <tr><td>1. Scope management plan</td><td>1. Activity attributes</td><td>19. Quality control measurements</td></tr>
   <tr><td>2. Requirements management plan</td><td>2. Activity list</td><td>20. Quality metrics</td></tr>
   <tr><td>3. Schedule management plan</td><td>3. Assumption log</td><td>21. Quality report</td></tr>
   <tr><td>4. Cost management plan</td><td>4. Basis of estimates</td><td>22. Requirements documentation</td></tr>
   <tr><td>5. Quality management plan</td><td>5. Change log</td><td>23. Requirements traceability matrix</td></tr>
   <tr><td>6. Resource management plan</td><td>6. Cost estimates</td><td>24. Resource breakdown structure</td></tr>
-  <tr><td>7. Communications management plan</td><td>7. COst forecasts</td><td>25. Resource calendars</td></tr>
-  <tr><td></td><td></td><td></td></tr>
-  <tr><td></td><td></td><td></td></tr>
-  <tr><td></td><td></td><td></td></tr>
-  <tr><td></td><td></td><td></td></tr>
-  <tr><td></td><td></td><td></td></tr>
-  <tr><td></td><td></td><td></td></tr>
-  <tr><td></td><td></td><td></td></tr>
-  <tr><td></td><td></td><td></td></tr>
+  <tr><td>7. Communications management plan</td><td>7. Cost forecasts</td><td>25. Resource calendars</td></tr>
+  <tr><td>8. Risk management plan</td>8. Duration estimates<td></td><td>26. Resource requirements</td></tr>
+  <tr><td>9. Procurement management plan</td><td>9. Issue log</td><td>27. Risk register</td></tr>
+  <tr><td>10. Stakeholder engagement plan</td><td>10. Lessons learned register</td><td>28. Risk report</td></tr>
+  <tr><td>11. Change management plan</td><td>11. Milestone list</td><td>Schedule data</td></tr>
+  <tr><td>12. Configuration management plan</td><td>12. Physical resource assignments</td><td>30. Schedule forcasts</td></tr>
+  <tr><td>13. Scope baseline</td><td>13. Project calendars</td><td>31. Stakeholder register</td></tr>
+  <tr><td>14. Schedule baseline</td><td>14. Project communications</td><td>32. Team charter</td></tr>
+  <tr><td>15. Cost baseline</td><td>15. Project schedule</td><td>33. Test and evaluation documents</td></tr>
+  <tr><td>16. Performance measurement bseline</td><td>16. Project schedule network diagram</td><td></td></tr>
+  <tr><td>17. Project lifecycle description</td><td>17. Project scope statement</td><td></td></tr>
+  <tr><td>18. Development approach</td><td>18. Project team assignments</td><td></td></tr>
 </table>
 
 <h2>Direct and Manage Project Work</h2>
