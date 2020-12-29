@@ -21,10 +21,10 @@ It defines how the project is executed, monitored and controlled, and closed.<br
   <tr><td>5. Quality management plan</td><td>5. Change log</td><td>23. Requirements traceability matrix</td></tr>
   <tr><td>6. Resource management plan</td><td>6. Cost estimates</td><td>24. Resource breakdown structure</td></tr>
   <tr><td>7. Communications management plan</td><td>7. Cost forecasts</td><td>25. Resource calendars</td></tr>
-  <tr><td>8. Risk management plan</td>8. Duration estimates<td></td><td>26. Resource requirements</td></tr>
+  <tr><td>8. Risk management plan</td><td>8. Duration estimates</td><td>26. Resource requirements</td></tr>
   <tr><td>9. Procurement management plan</td><td>9. Issue log</td><td>27. Risk register</td></tr>
   <tr><td>10. Stakeholder engagement plan</td><td>10. Lessons learned register</td><td>28. Risk report</td></tr>
-  <tr><td>11. Change management plan</td><td>11. Milestone list</td><td>Schedule data</td></tr>
+  <tr><td>11. Change management plan</td><td>11. Milestone list</td><td>29. Schedule data</td></tr>
   <tr><td>12. Configuration management plan</td><td>12. Physical resource assignments</td><td>30. Schedule forcasts</td></tr>
   <tr><td>13. Scope baseline</td><td>13. Project calendars</td><td>31. Stakeholder register</td></tr>
   <tr><td>14. Schedule baseline</td><td>14. Project communications</td><td>32. Team charter</td></tr>
