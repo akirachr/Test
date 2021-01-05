@@ -1,8 +1,8 @@
 <table>
    <caption><b>Resource Management Objectives</b></caption>
-   <tr><td>1. </td><td>Imporve team members' competencies.</td>
+   <tr><td>1. </td><td>Develop team members' skills and competencies.</td>
    <tr><td>2. </td><td>Motivate team members through a recognition and reward system.</td></tr>
-   <tr><td>3. </td><td>Clarify team members' roles and responsibilities.</td></tr>
+   <tr><td>3. </td><td>Involve team members in project planning and decision making.</td></tr>
 </table>
 
 Project manager's responsibilities for resource management.<br>
