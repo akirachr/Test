@@ -9,5 +9,8 @@ Quickly respond to changes.
 5. Disaster Recovery
 
 IaaS = Infrastructure as a serivice
+Customer is responsible for operating systems, configuration, backups.
 PaaS = Platform as a serivice
+Service provider is responsible for infrastructure, operating systems, management, backups.
 SaaS = Software as a serivice
+Service provider is responsible for the application and the underlying infrastructure.
