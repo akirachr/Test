@@ -1,0 +1,13 @@
+1. high Availability
+Systems are available for a long period of time.
+2. Scalability
+Increase workload on the currnet resources.
+3. Elasticity
+Increase workload on additional resources.
+4. Agility
+Quickly respond to changes.
+5. Disaster Recovery
+
+IaaS = Infrastructure as a serivice
+PaaS = Platform as a serivice
+SaaS = Software as a serivice
